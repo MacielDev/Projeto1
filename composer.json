@@ -1,0 +1,14 @@
+{
+    "name": "wdev/mvc",
+    "description": "Projeto que visa implementar a construção e estrutura de um projeto em MVC, utilizando o PHP - Sem utilização de frameworks.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [{
+        "name": "André Vinicius Maciel",
+        "email": "87920799+MacielDev@users.noreply.github.com"
+    }],
+    "require": {}
+}
