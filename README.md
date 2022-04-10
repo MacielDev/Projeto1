@@ -6,4 +6,7 @@ aos conhecimentos basilares do desenvolvimento de sistemas web que utilizem a li
 desenvoltura e domínio das ferramentas e sintaxe da linguagem.
 
 Tecnologias utilizadas:
+<div style="display: inline_block">
+<img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</div>
 
